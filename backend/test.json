@@ -1,0 +1,422 @@
+[
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "9.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "10:00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "10.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "11.00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "11.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "12.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "12.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "1.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "1.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-24",
+        "slot_type": "On-site",
+        "slot_time": "2.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "9.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "10:00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "10.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "11.00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "11.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "12.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "12.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "1.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "1.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-25",
+        "slot_type": "On-site",
+        "slot_time": "2.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "9.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "10:00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "10.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "11.00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "11.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "12.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "12.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "1.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "1.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-26",
+        "slot_type": "On-site",
+        "slot_time": "2.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "9.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "10:00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "10.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "11.00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "11.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "12.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "12.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "1.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "1.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-27",
+        "slot_type": "On-site",
+        "slot_time": "2.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "9.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "10:00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "10.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "11.00 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "11.30 AM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "12.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "12.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "1.00 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "1.30 PM"
+    },
+    {
+        "doctor_id": 1,
+        "slot_date": "2023-12-28",
+        "slot_type": "On-site",
+        "slot_time": "2.00 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "9.30 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "10:00 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "10.30 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "11.00 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "11.30 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "12.00 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "12.30 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "1.00 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "1.30 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-29" ,
+      "slot_type": "On-site",
+      "slot_time": "2.00 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "9.30 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "10:00 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "10.30 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "11.00 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "11.30 AM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "12.00 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "12.30 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "1.00 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "1.30 PM"
+    },
+    {
+      "doctor_id": 1,
+      "slot_date":   "2023-12-30" ,
+      "slot_type": "On-site",
+      "slot_time": "2.00 PM"
+    }
+  ]
